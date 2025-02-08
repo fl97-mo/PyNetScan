@@ -15,5 +15,12 @@ A collection of Python tools for network scanning and security testing.
 - No external dependencies
 
 
----
+1. **Clone the repository** 
+   ```bash
+   git clone https://github.com/fl97-mo/PyNetScan.git
+   ```
+   ```bash
+   cd PyNetScan
+   ```
 
+   ---
