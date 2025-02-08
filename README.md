@@ -3,7 +3,7 @@ A collection of Python tools for network scanning and security testing.
 
 ---
 # Simple Python Port Scanner
-This is a **basic Python script** that scans the **first 1024 ports** of a given IP address or domain and identifies which ports are open or closed.
+`port_scanner.py` is a **basic Python script** that scans the **first 1024 ports** of a given IP address or domain and identifies which ports are open or closed.
 
 ## Features
 - Scans ports **1-1024**
